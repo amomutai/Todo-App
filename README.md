@@ -14,3 +14,5 @@
     2. Express Server
     3. Mongoose ORM
     4. MongoDB
+
+To run, run npm install to download the node_modules
